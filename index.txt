@@ -21,7 +21,11 @@ Git has a mutable index called stage.
 
 
 
-ZZ
+Zcreating a new branch is quick an simple Z
 
 changes changes 
+<<<<<<< HEAD
 aaaaaaaaaaaaa
+=======
+qqqq
+>>>>>>> featurel
